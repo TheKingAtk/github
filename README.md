@@ -31,6 +31,9 @@
 ```bash
 $ npm install
 ```
+##Heroku
+my-app-github.herokuapp.com/
+```
 
 ## Running the app
 
