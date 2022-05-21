@@ -31,8 +31,20 @@
 ```bash
 $ npm install
 ```
-##Heroku
+## Heroku
+
+```bash
 my-app-github.herokuapp.com/
+```
+
+## Instructions to use the app
+
+```bash
+1. Click Sign Up if you haven't created an account
+2. Create an account and input your Personal Access Code from Github to give authorization to create a repo
+3. Enter Sign In details and Log In
+4. Enter Repository name and descriptions
+5. Click on Create Repository to create a repository in your github account
 ```
 
 ## Running the app
